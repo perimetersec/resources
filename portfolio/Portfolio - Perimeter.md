@@ -1,4 +1,4 @@
-# Perimeter
+<img src="../assets/perimeter-logo.png" alt="Perimeter Logo">
 
 ## About
 Perimeter's mission is to deliver the highest quality fuzzing services to protocols by uniting the world's foremost fuzzing specialists. We possess extensive expertise in fuzzing a diverse range of protocols, from smaller, niche protocols to some of the largest and most complex in DeFi. 
