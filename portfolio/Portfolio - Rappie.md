@@ -3,7 +3,7 @@
 ## About
 Rappie is a Lead Fuzzing Specialist at Perimeter.
 
-Rappie is the Founder, CTO, and Lead Fuzzing Specialist at [Perimeter](https://cantina.xyz/guilds/perimeter), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
+Rappie is the Founder, CTO, and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
 
 As a security researcher, he specializes in fuzzing EVM-based smart contracts. 
 
