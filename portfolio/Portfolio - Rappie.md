@@ -1,3 +1,5 @@
+<img src="../assets/profile-rappie.png" alt="Perimeter Logo">
+
 # Rappie
 
 ## About
