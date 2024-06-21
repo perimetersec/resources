@@ -21,6 +21,26 @@ In order to deliver on our mission, we have developed the most advanced scaffold
 | Private                                            | Fuzzing Suite         | 2024-04   |                                                                                                                                          |                                                                                          |
 | [Drips Network](https://www.drips.network/)        | Fuzzing Suite         | 2024-01   |                                                                                                                                          | [Code](https://github.com/perimetersec/drips-fuzzing/tree/main/src/echidna)<br>          |
 | Private                                            | Fuzzing Suite         | 2023-11   |                                                                                                                                          |                                                                                          |
+## Testimonials
+Below are some testimonials of our prior work.
+
+> I engaged 0xScourgedev for fuzz testing on behalf of Pendle, and I was impressed with his dedication and willingness to go above and beyond. He was very responsive and committed to delivering quality results, consistently addressing any queries or concerns promptly. Overall, 0xScourgedev did a great job ensuring the robustness of the contract. We look forward to working with him again in the future.
+> - [Long Vuong](https://x.com/unclegrandpa925), [Pendle](https://www.pendle.finance), [Link to testimonial](https://x.com/0xScourgedev/status/1801298332947517713)
+
+> Rappie found some extremely subtle behaviors in our code that many others missed. He not only uses the cutting edge of multiple fuzzing engines, but also helps shape how these fuzzers are built. We've been delighted to use his mastery to make our contracts more secure.
+> 
+> - [DanielVF](https://x.com/danielvf), [Origin Protocol](https://www.originprotocol.com/)
+
+> Engagement has been great and I'm sure Alex would second the sentiment. digging into the code with care and precision, excellent communication and standups, educational
+> In the top tier of security researcher contract engagements from my experience
+> - [BadgerDAO](https://x.com/BadgerDAO), [eBTC](https://x.com/eBTCprotocol)
+
+> Rappie went above and beyond to deeply understand our protocol and cover all the edge cases. His experience and knowledge about the art of fuzzing is unparalleled. Overall he is an incredible security expert, we certainly will be returning to him with our future smart contracts.
+>
+> - [Igor Zuk](https://x.com/code_sandwich), [Drips Network](https://www.drips.network/)
+
+> So we are happy of what has been done so far, definitely useful for us to go in the right direction.
+> - [Smilee Finance](https://x.com/SmileeFinance)
 
 ## External Links
 - [perimeter_sec on X](https://x.com/perimeter_sec)
