@@ -29,7 +29,7 @@ Beyond his professional roles, Rappie is an active member of the fuzzing communi
 | Private                                            | Perimeter Fuzzing Engagement                       | 2023-11   |                                                                                                                                          |                                                                                                 |
 | [Origin Protocol](https://www.originprotocol.com/) | Fuzzing Engagement                                 | 2023-09   |                                                                                                                                          | [Code](https://github.com/OriginProtocol/origin-dollar/tree/master/contracts/contracts/echidna) |
 | [Origin Protocol](https://www.originprotocol.com/) | Fuzzing & Audit                                    | 2023-03   | [Report]( reports/Origin%20Protocol%20-%20Security%20assessment%20of%20PR%20%231239.md)                                                  |                                                                        
-## Contact
+## External Links
 Don't hesitate to contact me with questions, discussions, or business requests.
 - X: [rappie_eth](https://x.com/rappie_eth)
 - Discord: `rappie`
