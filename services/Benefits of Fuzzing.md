@@ -2,9 +2,9 @@
 
 Fuzzing is an automated testing technique that executes random actions with random inputs in order to find unwanted or unexpected behavior of a protocol. Fuzzing is particularly effective in discovering errors in complex code, such as math functions, rounding errors, or complex business logic, that would often be missed in a manual security review.
 
-Many are familiar with the concept of stateless fuzzing, which generates random values without regard for the system's internal state between test cases. Each test is executed in isolation, with no memory of previous runs. This approach is comparable to writing a multitude of unit tests that vary only in their initial conditions.
+- **Stateless Fuzzing**: Generates random values without considering the system’s internal state between tests, similar to running numerous unit tests with different initial conditions.
 
-At Perimeter, we specialize in stateful fuzzing, which generates random values accompanied by random sequences of actions, with memory of previous actions. It rigorously verifies system properties irrespective of the sequence of actions performed. This method is analogous to writing countless unit tests with any combination of actions to ensure the protocol's integrity.
+- **Stateful Fuzzing**: Generates random values and sequences of actions while remembering previous actions, ensuring the protocol’s integrity through a variety of actions. This approach is like conducting countless unit tests with various action combinations.
 
 ## Use Cases of Fuzzing
 The list below describes a range of some noteworthy benefits of fuzzing:
@@ -39,13 +39,19 @@ We have developed the most advanced scaffolding and libraries, enabling us to cr
 
 
 ## Deliverables
-Every engagement contains a standard set of deliverables. Based on the protocol's specific requirements, additional deliverables can be added. At Perimeter, we pride ourselves on providing the absolute best quality of services to ensure your protocol is secure.
 - **Fuzzing Suite Development**: Design and implement stateful and stateless fuzzing suites using Echidna and Medusa. This suite will be tailor-made to the protocol and scope of the contracts.
 - **Findings Reporting**: Provide thorough documentation and reporting of all findings identified throughout the engagement period.
 - **Proof-of-Concept Development**: For each finding and assertion/property counterexample identified, a corresponding Proof-of-Concept (PoC) will be developed to demonstrate potential vulnerabilities and their implications.
 - **Invariant Testing Assurance**: This guarantee ensures that each implemented invariant will be tested in at least 50,000,000 instances, ensuring thorough validation and reliability.
 - **Comprehensive Final Report**: This detailed final report will include all findings, along with their corresponding PoCs. It will also detail the invariants tested, their run status, and the number of runs, providing a comprehensive overview of the engagement's outcomes.
 - **Post-launch Protection**: An optional service in which we adapt the fuzzing suite to accommodate live deployed contracts. This includes using on-chain fuzzing through [Recon](https://getrecon.xyz) to ensure that no invariants can be broken given the latest blockchain state.
+- **CI/CD Integration**: An optional service where we seamlessly incorporate our specialized fuzzing suite to automatically run with each new code push through [Recon](https://getrecon.xyz), ensuring that changes do not compromise system integrity.
+- **Testing Reinforcement**: An optional service where we create or expand on the unit testing suite to provide greater coverage and deeper branching, effectively catching all low-hanging issues.
+- **Post-launch Protection**: An optional service in which we adapt the fuzzing suite to accommodate live deployed contracts. This includes using on-chain fuzzing through [Recon](https://getrecon.xyz) to ensure that no invariants can be broken given the latest blockchain state.
+
+At Perimeter, we pride ourselves on providing the absolute best quality of services to ensure your protocol is secure. We will collaborate with you throughout the entire process to deliver the most comprehensive solution, ensuring the final product meets your long-term needs.
+
+If you require any deliverables or services not listed above, we will work with you to create a custom solution that meets your needs and surpass your expectations.
 
 ## Contact
 Request a quote [here](https://tally.so/r/wkAgar)
