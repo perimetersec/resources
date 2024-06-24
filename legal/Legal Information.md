@@ -32,7 +32,7 @@ Sole Proprietorship (Eenmanszaak)
 For any inquiries, please contact us via email at [info@perimetersec.io](mailto:info@perimetersec.io). Our team is available to assist you 24/7, and we commit to responding to your queries within a maximum of four (4) business days.
 
 ## Privacy Policy
-Your privacy is important to us. Please review our [Privacy Policy](Privacy%20Policy.md) for details on how we handle your personal information.
+Your privacy is important to us. Please review our [Privacy Policy](https://github.com/perimetersec/resources/blob/main/legal/Privacy%20Policy%20English.md) for details on how we handle your personal information.
 
 ## Cookie Policy
 We do not utilize cookies on our website.
