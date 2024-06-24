@@ -38,7 +38,7 @@ At Perimeter, we possess extensive expertise in fuzzing a diverse range of proto
 We have developed the most advanced scaffolding and libraries, enabling us to create highly sophisticated fuzzing suites tailored to meet the unique challenges of each protocol. Additionally, we have enterprise hardware and cloud infrastructure with [Recon](https://getrecon.xyz) to support the demands of these sophisticated fuzzing suites.
 
 
-## Deliverables
+## What to Expect in an Engagement
 - **Fuzzing Suite Development**: Design and implement stateful and stateless fuzzing suites using Echidna and Medusa. This suite will be tailor-made to the protocol and scope of the contracts.
 - **Findings Reporting**: Provide thorough documentation and reporting of all findings identified throughout the engagement period.
 - **Proof-of-Concept Development**: For each finding and assertion/property counterexample identified, a corresponding Proof-of-Concept (PoC) will be developed to demonstrate potential vulnerabilities and their implications.
