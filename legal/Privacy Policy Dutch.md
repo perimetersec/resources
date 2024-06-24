@@ -5,11 +5,11 @@
 **8013RP Zwolle**
 **Nederland**, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
 
-**Contactgegevens:**
-[https://perimetersec.io](https://perimetersec.io)
-Paxtonstraat 3 N Box A2345
-8013RP Zwolle
-Nederland
+**Contactgegevens:**  
+[https://perimetersec.io](https://perimetersec.io)  
+Paxtonstraat 3 N Box A2345  
+8013RP Zwolle  
+Nederland  
 +31 85 301 61 82
 
 Rappie is de Functionaris Gegevensbescherming van Perimeter. Hij/zij is te bereiken via [rappie@perimetersec.io](mailto:rappie@perimetersec.io).
