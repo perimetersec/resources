@@ -6,6 +6,7 @@
 **Netherlands**, is responsible for the processing of personal data as shown in this privacy policy.
 
 **Contact details:**
+
 [https://perimetersec.io](https://perimetersec.io)  
 Paxtonstraat 3 N Box A2345  
 8013RP Zwolle  
