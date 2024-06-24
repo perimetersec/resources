@@ -60,4 +60,5 @@ Perimeter wil je er tevens op wijzen dat je de mogelijkheid hebt om een klacht i
 Perimeter neemt de bescherming van jouw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan. Als jij het idee hebt dat jouw gegevens toch niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, neem dan contact op met onze klantenservice of via [info@perimetersec.io](mailto:info@perimetersec.io).
 
 ## Leidend Document
-Deze privacyverklaring is het leidende document voor alle communicatie met betrekking tot gegevensbescherming. De [Engelse versie](Privacy%20Policy.md) van deze verklaring is uitsluitend bedoeld als vertaalhulp. In geval van verschillen tussen de Nederlandse en de Engelse versie is de Nederlandse versie leidend.
+Deze privacyverklaring is het leidende document voor alle communicatie met betrekking tot gegevensbescherming. De [Engelse versie](Privacy%20Policy%20English.md) van deze verklaring is uitsluitend bedoeld als vertaalhulp. In geval van verschillen tussen de Nederlandse en de Engelse versie is de Nederlandse versie leidend.
+
