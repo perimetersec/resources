@@ -1,3 +1,5 @@
+# Perimeter Essentials
+
 ## Getting Started with Fuzzing
 Getting started with fuzzing for protocols can seem daunting, despite its clear [benefits](https://github.com/perimetersec/resources/blob/main/services/Benefits%20of%20Fuzzing.md#use-cases-of-fuzzing). There is often uncertainty surrounding cost, timelines, and potential issues. Additionally, creating an effective fuzzing suite presents numerous [technical challenges](https://github.com/perimetersec/resources/blob/main/services/Benefits%20of%20Fuzzing.md#challenges-of-fuzzing).
 
@@ -23,10 +25,8 @@ Contact Perimeter:
 - X, formerly Twitter: [@perimeter_sec](https://x.com/perimeter_sec)
 - Cantina Guilds: [@perimeter](https://cantina.xyz/guilds/perimeter)
 - E-mail: [info@perimetersec.io](mailto:info@perimetersec.io)
+- Website: [perimetersec.io](https://www.perimetersec.io/)
 
 Or contact us directly:
 - Rappie: [X](https://x.com/rappie_eth), [Discord](https://discordapp.com/users/rappie), [Telegram](https://t.me/rappenstein)
 - 0xScourgedev: [X](https://x.com/0xScourgedev), [Discord](https://discordapp.com/users/0xscourgedev), [Telegram](https://t.me/scourgedev)
-
-## Links
-- Website: [perimetersec.io](https://www.perimetersec.io/)

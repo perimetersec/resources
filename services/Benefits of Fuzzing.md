@@ -32,11 +32,11 @@ To develop an effective fuzzing suite, it is necessary to have both a deep under
 - **Balancing Efficiency and Accuracy**: Differentiating useful sequences from useless sequences is crucial. It involves discarding non-useful sequences while retaining the valuable ones. Extensive experience is essential in this area, as discarding useful sequences can result in missing critical vulnerabilities, while retaining too many useless sequences can make detecting vulnerabilities nearly impossible due to the inherent randomness.
 - **Insufficient Infrastructure**: Sophisticated fuzzing suites require a large number of runs to cover all necessary branches. Achieving this often necessitates enterprise hardware, cloud infrastructure, or a significant amount of time. Additionally, extensive experience with fuzzing is crucial to determine the appropriate number of runs for a particular suite, balancing the need for thoroughness against time and cost constraints.
 
-
 At Perimeter, we possess extensive expertise in fuzzing a diverse range of protocols, from smaller, niche protocols to some of the largest and most complex in DeFi. 
 
 We have developed the most advanced scaffolding and libraries, enabling us to create highly sophisticated fuzzing suites tailored to meet the unique challenges of each protocol. Additionally, we have enterprise hardware and cloud infrastructure with [Recon](https://getrecon.xyz) to support the demands of these sophisticated fuzzing suites.
 
+[Perimeter Essentials](Perimeter%20Essentials.md) is a package aimed at protocols new to fuzzing. It offers a quick, one-week, heavily discounted engagement designed to provide protocols with a solid, highly extensible foundation that meets long-term security needs and effectively prevents exploits.
 
 ## What to Expect in an Engagement
 - **Fuzzing Suite Development**: Design and implement stateful and stateless fuzzing suites using Echidna and Medusa. This suite will be tailor-made to the protocol and scope of the contracts.
@@ -52,6 +52,8 @@ We have developed the most advanced scaffolding and libraries, enabling us to cr
 At Perimeter, we pride ourselves on providing the absolute best quality of services to ensure your protocol is secure. We will collaborate with you throughout the entire process to deliver the most comprehensive solution, ensuring the final product meets your long-term needs.
 
 If you require any deliverables or services not listed above, we will work with you to create a custom solution that meets your needs and surpass your expectations.
+
+Protocols new to fuzzing should look at [Perimeter Essentials](Perimeter%20Essentials.md), our cost-effective, one-week fuzzing engagement.
 
 ## Contact
 Request a quote [here](https://tally.so/r/wkAgar)
