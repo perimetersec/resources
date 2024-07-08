@@ -3,7 +3,7 @@
 ## About
 Perimeter's mission is to deliver the highest quality fuzzing services to protocols by uniting the world's foremost fuzzing specialists. We possess extensive expertise in fuzzing a diverse range of protocols, from smaller, niche protocols to some of the largest and most complex in DeFi. 
 
-In order to deliver on our mission, we have developed the most advanced scaffolding and libraries, enabling us to create highly sophisticated fuzzing suites tailored to meet the unique challenges of each protocol. Additionally, we have enterprise hardware and cloud infrastructure with [Recon](https://getrecon.xyz) to support the demands of these sophisticated fuzzing suites.
+In order to deliver on our mission, we have developed the most advanced scaffolding and libraries, enabling us to create highly sophisticated fuzzing suites tailored to meet the unique challenges of each protocol. We have enterprise hardware and cloud infrastructure with [Recon](https://getrecon.xyz) to support the demands of these sophisticated fuzzing suites. Additionally, [Perimeter Essentials](../services/Perimeter%20Essentials.md) helps protocols new to fuzzing get started quickly.
 
 ## Team
 - [0xScourgedev](Portfolio%20-%200xScourgedev.md) - CEO, Lead Fuzzing Specialist
