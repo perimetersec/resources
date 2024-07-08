@@ -1,3 +1,5 @@
+# Perimeter Essentials
+
 ## Getting Started with Fuzzing
 Getting started with fuzzing for protocols can seem daunting, despite its clear [benefits](https://github.com/perimetersec/resources/blob/main/services/Benefits%20of%20Fuzzing.md#use-cases-of-fuzzing). There is often uncertainty surrounding cost, timelines, and potential issues. Additionally, creating an effective fuzzing suite presents numerous [technical challenges](https://github.com/perimetersec/resources/blob/main/services/Benefits%20of%20Fuzzing.md#challenges-of-fuzzing).
 
