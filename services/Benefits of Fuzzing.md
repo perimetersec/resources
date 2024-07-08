@@ -36,7 +36,7 @@ At Perimeter, we possess extensive expertise in fuzzing a diverse range of proto
 
 We have developed the most advanced scaffolding and libraries, enabling us to create highly sophisticated fuzzing suites tailored to meet the unique challenges of each protocol. Additionally, we have enterprise hardware and cloud infrastructure with [Recon](https://getrecon.xyz) to support the demands of these sophisticated fuzzing suites.
 
-To help protocols new to fuzzing get started, we offer [Perimeter Essentials](services/Perimeter%20Essentials.md). This package offers a quick, one-week, heavily discounted engagement, designed to provide protocols with a solid, highly extensible foundation that meets long-term security needs and effectively prevents exploits.
+To help protocols new to fuzzing get started, we offer [Perimeter Essentials](Perimeter%20Essentials.md). This package offers a quick, one-week, heavily discounted engagement, designed to provide protocols with a solid, highly extensible foundation that meets long-term security needs and effectively prevents exploits.
 
 ## What to Expect in an Engagement
 - **Fuzzing Suite Development**: Design and implement stateful and stateless fuzzing suites using Echidna and Medusa. This suite will be tailor-made to the protocol and scope of the contracts.
