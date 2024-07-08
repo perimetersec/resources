@@ -3,7 +3,7 @@
 ## Perimeter
 Perimeter's mission is to deliver the highest quality fuzzing services to protocols by uniting the world's foremost fuzzing specialists. We possess extensive expertise in fuzzing a diverse range of protocols, from smaller, niche protocols to some of the largest and most complex in DeFi.
 
-For more information, visit our [Portfolio](portfolio/Portfolio%20-%20Perimeter.md) page.
+For more information, visit our [Portfolio](portfolio/Portfolio%20-%20Perimeter.md).
 
 ## Documents
 Team
