@@ -53,6 +53,8 @@ At Perimeter, we pride ourselves on providing the absolute best quality of servi
 
 If you require any deliverables or services not listed above, we will work with you to create a custom solution that meets your needs and surpass your expectations.
 
+Protocols new to fuzzing should look at [Perimeter Essentials](Perimeter%20Essentials.md), our cost-effective, one-week fuzzing engagement.
+
 ## Contact
 Request a quote [here](https://tally.so/r/wkAgar)
 
