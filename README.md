@@ -14,7 +14,8 @@ Team
 
 Fuzzing Information
 - [Benefits of Fuzzing](services/Benefits%20of%20Fuzzing.md) - Outlines the advantages of fuzzing smart contracts.
-- [Technical benefits of Fuzzing](services/Technical%20Concepts%20of%20Fuzzing.md) -  Explains technical aspects and methodologies of fuzzing
+- [Perimeter Essentials](services/Perimeter%20Essentials.md) - Offers a cost-effective, one-week fuzzing engagement, providing robust security foundations for protocols.
+- [Technical benefits of Fuzzing](services/Technical%20Concepts%20of%20Fuzzing.md) - Explains technical aspects and methodologies of fuzzing
 
 Public Reports
 - [Origin Protocol OETHVault](reports/Origin%20Protocol%20OETHVault%20-%20Fuzzing%20Report.pdf)
