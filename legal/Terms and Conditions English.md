@@ -79,5 +79,5 @@ Terms indicated in the General Conditions with an initial capital letter shall h
 
 ## Article 12 Applicable law and disputes
 - **12.1** The Agreement shall be governed by Dutch law. Applicability of the Vienna Sales Convention is excluded.
-- **12.2** In the event of disputes regarding the textual interpretation of the Agreement or these General Terms and Conditions, the Dutch version shall prevail. Non-Dutch versions provided by Service Provider are a translation of the Dutch version.
+- **12.2** In the event of disputes regarding the textual interpretation of the Agreement or these General Terms and Conditions, the [Dutch version](https://github.com/perimetersec/resources/blob/main/legal/Terms%20and%20Conditions%20Dutch.md) shall prevail. Non-Dutch versions provided by Service Provider are a translation of the Dutch version.
 - **12.3** To the extent not otherwise prescribed by the rules of mandatory law, all disputes arising from or related to this Agreement shall be submitted (exclusively) to the competent court of the district in the Netherlands in which Service Provider has its registered office, on the understanding that Service Provider is entitled to also submit the dispute to a court having jurisdiction on other grounds.
