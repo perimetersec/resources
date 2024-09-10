@@ -1,7 +1,7 @@
 <img src="../assets/profile-rappie.png" alt="Perimeter Logo">
 
 ## About Rappie
-Rappie is the Founder, CTO, and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
+Rappie is the CTO and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), an Associate Security Researcher at [Spearbit](https://spearbit.com/), and active in Bug Bounty on [Immunefi](https://immunefi.com/).
 
 As a security researcher, he specializes in fuzzing EVM-based smart contracts. 
 
@@ -20,6 +20,7 @@ Beyond his professional roles, Rappie is an active member of the fuzzing communi
 
 | Protocol                                           | Engagement Type                                    | Completed | Report                                                                                                                                   | Code                                                                                            |
 | -------------------------------------------------- | -------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Berachain                                          | Fuzzing Specialist during Spearbit Security Review | 2024-09   |                                                                                                                                          |                                                                                                 |
 | Private                                            | Fuzzing Specialist during Spearbit Security Review | 2024-05   |                                                                                                                                          |                                                                                                 |
 | [Origin Protocol](https://www.originprotocol.com/) | Perimeter Fuzzing Engagement                       | 2024-05   | [Report](https://github.com/perimetersec/origin-oeth-fuzzing/blob/main/reports/Origin%20Protocol%20OETHVault%20-%20Fuzzing%20Report.pdf) | [Code](https://github.com/perimetersec/origin-oeth-fuzzing/tree/main/src/fuzz/oethvault)        |
 | Private                                            | Perimeter Fuzzing Engagement                       | 2024-04   |                                                                                                                                          |                                                                                                 |
@@ -28,7 +29,9 @@ Beyond his professional roles, Rappie is an active member of the fuzzing communi
 | [Drips Network](https://www.drips.network/)        | Fuzzing Specialist during Spearbit Security Review | 2023-11   | [Report](https://docs.drips.network/assets/files/Spearbit_Drips_Network_Security_Review-d5cda225c36d4c2f1185e154431812b5.pdf)            | <br>                                                                                            |
 | Private                                            | Perimeter Fuzzing Engagement                       | 2023-11   |                                                                                                                                          |                                                                                                 |
 | [Origin Protocol](https://www.originprotocol.com/) | Fuzzing Engagement                                 | 2023-09   |                                                                                                                                          | [Code](https://github.com/OriginProtocol/origin-dollar/tree/master/contracts/contracts/echidna) |
-| [Origin Protocol](https://www.originprotocol.com/) | Fuzzing & Audit                                    | 2023-03   | [Report]( reports/Origin%20Protocol%20-%20Security%20assessment%20of%20PR%20%231239.md)                                                  |                                                                        
+| [Origin Protocol](https://www.originprotocol.com/) | Fuzzing & Audit                                    | 2023-03   | [Report]( reports/Origin%20Protocol%20-%20Security%20assessment%20of%20PR%20%231239.md)                                                  |                                                                                                 |
+
+                                   
 ## External Links
 Don't hesitate to contact me with questions, discussions, or business requests.
 - X: [rappie_eth](https://x.com/rappie_eth)
