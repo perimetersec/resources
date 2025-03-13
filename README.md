@@ -6,16 +6,15 @@ Perimeter's mission is to deliver the highest quality fuzzing services to protoc
 For more information, visit our [Portfolio](portfolio/Portfolio%20-%20Perimeter.md).
 
 ## Documents
-Team
+### Lead Fuzzing Specialists
 - [0xScourgedev](portfolio/Portfolio%20-%200xScourgedev.md) - CEO, Lead Fuzzing Specialist
 - [Rappie](portfolio/Portfolio%20-%20Rappie.md) - CTO, Lead Fuzzing Specialist
 - [Antonio Viggiano](portfolio/Portfolio%20-%20Antonio%20Viggiano.md) - Advisor, Lead Fuzzing Specialist
-- [nican0r](portfolio/Portfolio%20-%20nican0r.md) - Junior Fuzzing Specialist
 
-Fuzzing Information
+### Fuzzing Information
 - [Benefits of Fuzzing](services/Benefits%20of%20Fuzzing.md) - Outlines the advantages of fuzzing smart contracts.
 - [Perimeter Essentials](services/Perimeter%20Essentials.md) - Offers a cost-effective, one-week fuzzing engagement, providing a robust security foundation for protocols.
 - [Technical benefits of Fuzzing](services/Technical%20Concepts%20of%20Fuzzing.md) - Explains technical aspects and methodologies of fuzzing
 
-Public Reports
+### Public Reports
 - [Origin Protocol OETHVault](reports/Origin%20Protocol%20OETHVault%20-%20Fuzzing%20Report.pdf)
