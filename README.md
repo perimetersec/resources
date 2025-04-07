@@ -18,3 +18,5 @@ For more information, visit our [Portfolio](portfolio/Portfolio%20-%20Perimeter.
 
 ### Public Reports
 - [Origin Protocol OETHVault](reports/Origin%20Protocol%20OETHVault%20-%20Fuzzing%20Report.pdf)
+- [Immutable zkEVM Bridge](reports/Immutable%20zkEVM%20Bridge%20-%20Fuzzing%20Report.pdf)
+- [Origin Protocol WOETH](reports/Origin%20Protocol%20WOETH%20-%20Fuzzing%20Report.pdf)
