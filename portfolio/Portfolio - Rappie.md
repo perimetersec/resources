@@ -15,10 +15,10 @@ Beyond his professional roles, Rappie contributes actively to the fuzzing commun
 > Rappie went above and beyond to deeply understand our protocol and cover all the edge cases. His experience and knowledge about the art of fuzzing is unparalleled. Overall he is an incredible security expert, we certainly will be returning to him with our future smart contracts.
 >
 >   - [Igor Zuk](https://x.com/code_sandwich), [Drips Network](https://www.drips.network/)
-            
+
 ## External Links
 Don't hesitate to contact me for questions, discussions, or business requests.
-- X: [rappie_eth](https://x.com/rappie_eth)
+- X (formerly Twitter): [rappie_eth](https://x.com/rappie_eth)
 - Github Portfolio: [rappie](https://github.com/rappie/portfolio)
 - Discord: `rappie`
 - Telegram: `@rappenstein`

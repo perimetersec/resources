@@ -18,7 +18,6 @@ Previously, Antonio worked as a co-founder and CTO at different start ups, havin
 > - [Smilee Finance](https://x.com/SmileeFinance)
 
 ## External Links
-- [agfviggiano on X](https://x.com/agfviggiano)
-- [LinkedIn](https://www.linkedin.com/in/aviggiano/)
-- [Github portfolio](https://github.com/aviggiano)
-- [Cantina profile](https://cantina.xyz/u/aviggiano)
+- X (formerly Twitter): [@agfviggiano](https://x.com/agfviggiano)
+- LinkedIn: [aviggiano](https://www.linkedin.com/in/aviggiano/)
+- GitHub: [aviggiano](https://github.com/aviggiano)

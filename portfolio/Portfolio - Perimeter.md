@@ -59,6 +59,6 @@ Below are some testimonials of our prior work.
 > - [Smilee Finance](https://x.com/SmileeFinance)
 
 ## External Links
-- [perimeter_sec on X](https://x.com/perimeter_sec)
+- X (formerly Twitter): [@perimeter_sec](https://x.com/perimeter_sec)
 - [Perimeter website](https://perimetersec.io)
 - [Perimeter Cantina Guild](https://cantina.xyz/guilds/perimeter)

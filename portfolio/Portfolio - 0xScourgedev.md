@@ -3,7 +3,7 @@
 ## About 0xScourgedev
 0xScourgedev serves as the CEO and Lead Fuzzing Specialist at Perimeter, bringing extensive experience in performing fuzzing engagements for some of the largest DeFi protocols, including [Pendle](https://www.pendle.finance), [Synthetix](https://synthetix.io) and various other protocols.
 
-Previously, he held the role of a technical Team Lead of over 10 developers at a successful blockchain startup. He also contributed to the development of smart contracts for large scale projects such as [Parallel TCG](https://parallel.life).
+Formerly an independent fuzzing specialist contracted to Guardian, and held the role of a technical Team Lead of over 10 developers at a successful blockchain startup. He also contributed to the development of smart contracts for large scale projects such as [Parallel TCG](https://parallel.life)
 
 ## Testimonials
 
