@@ -6,11 +6,11 @@ Josselin is a Lead Fuzzing Specialist at Perimeter.
 
 He is the author of [Slither](https://github.com/crytic/slither) and a seasoned information security expert with over a decade of experience, including 8+ years focused on blockchain security. Until 2025, he was the Engineering Director of the Blockchain team at Trail of Bits, where he led reviews of some of the most critical systems in the space.
 
-He specializes in securing both cutting-edge DeFi applications and the core blockchain components for not only EVM, but also for Move, Solana, Cosmos, Polkadot, and Algorand protocols. He also holds a Ph.D. in program analysis for security.
+Josselin specializes in securing both cutting-edge DeFi applications and the core blockchain components for not only EVM, but also for Move, Solana, Cosmos, Polkadot, and Algorand protocols. He also holds a Ph.D. in program analysis for security.
 
 ## Notable Security Review Outcomes
 
-Over the years, he's led or contributed to security reviews such as Uniswap V4, Uniswap V3, Balancer V2, Curve, Offchain BoLD and Offchain Nitro. His expertise has helped shape best practices across the blockchain space:
+Over the years, Josselin led or contributed to security reviews such as Uniswap V4, Uniswap V3, Balancer V2, Curve, Offchain BoLD and Offchain Nitro. His expertise has helped shape best practices across the blockchain space:
 
 - Upgradeability Anti-Patterns: Josselin wrote a series of blog posts on smart contract upgrade risks, including [“Contract upgrade anti-patterns”](https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/) and [“Good idea, bad design: How the Diamond standard falls short”](https://blog.trailofbits.com/2020/10/30/good-idea-bad-design-how-the-diamond-standard-falls-short/). These articles aim to help developers avoid common pitfalls when designing upgradable smart contracts.
 - Critical Aave Upgradeability Bug: He discovered a severe vulnerability in [Aave’s upgradeable proxy contracts](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/) that could have “broken” Aave and affected multiple integrated DeFi protocols. This issue was the result of extensive research he conducted into upgrade mechanisms and proxy design.
