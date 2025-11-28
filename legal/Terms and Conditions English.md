@@ -1,10 +1,10 @@
-# General Terms and Conditions Perimeter
+# General Terms and Conditions Perimeter B.V.
 Version 1.0 - July 2024
 
 ## Article 1 Definitions
 Terms indicated in the General Conditions with an initial capital letter shall have the meaning ascribed to them in this Article 1.
 - **1.1** Services means all activities performed by Service Provider for the benefit of the Client in performance of the Agreement. Services provided by Service Provider include (but are not limited to) Fuzzing and security consulting. 
-- **1.2** Service Provider: Perimeter, located at Paxtonstraat 3 N in (8013 RP) Zwolle and registered in the trade register under KvK number 90931920.
+- **1.2** Service Provider: Perimeter B.V., located at Paxtonstraat 3 N in (8013 RP) Zwolle and registered in the trade register under KvK number 98690515.
 - **1.3** Fuzzing: One of the services provided by Service Provider. Fuzzing is an automated testing technique that performs random actions with random input to find unwanted or unexpected behavior of a protocol. Fuzzing is especially effective in detecting errors in complex code, such as mathematical functions, rounding errors, or complex business logic, that would often be missed in a manual security check.
 - **1.4** Quotation: the written offer made by Service Provider to the Client. Quotations of Service Provider are valid, unless expressly stated otherwise in Writing, for two weeks after the offer is made.
 - **1.5** Assignment: the services to be performed or products to be delivered to the Client by Service Provider in accordance with the Agreement.
