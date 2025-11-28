@@ -1,10 +1,10 @@
-# Algemene Voorwaarden Perimeter
+# Algemene Voorwaarden Perimeter B.V.
 Versie 1.0 – juli 2024
 
 ## Artikel 1 Definities
 De in de Algemene Voorwaarden met een beginhoofdletter aangeduide begrippen, hebben de betekenis die daaraan in dit artikel 1 wordt toegekend.
 - **1.1** Diensten: alle activiteiten die Dienstverlener ter uitvoering van de Overeenkomst ten behoeve van Opdrachtgever verricht. De dienstverlening van Dienstverlener betreft onder andere (maar is niet beperkt tot) Fuzzing en beveiligingsadvies. 
-- **1.2** Dienstverlener: Perimeter, gevestigd aan de Paxtonstraat 3 N te (8013 RP) Zwolle en in geschreven in het handelsregister onder KvK-nummer 90931920.
+- **1.2** Dienstverlener: Perimeter B.V., gevestigd aan de Paxtonstraat 3 N te (8013 RP) Zwolle en in geschreven in het handelsregister onder KvK-nummer 98690515.
 - **1.3** Fuzzing: Een van de door Dienstverlener verrichte diensten. Fuzzing is een geautomatiseerde testtechniek die willekeurige acties uitvoert met willekeurige invoer om ongewenst of onverwacht gedrag van een protocol te vinden. Fuzzing is vooral effectief bij het ontdekken van fouten in complexe code, zoals wiskundige functies, afrondingsfouten of complexe bedrijfslogica, die vaak gemist zouden worden bij een handmatige beveiligingscontrole.
 - **1.4** Offerte: de schriftelijke aanbieding die Dienstverlener aan Opdrachtgever heeft gedaan. Offertes van Dienstverlener zijn tenzij Schriftelijk en uitdrukkelijk anders aangegeven geldig voor twee weken nadat de aanbieding is gedaan.
 - **1.5** Opdracht: de conform de Overeenkomst door Dienstverlener aan Opdrachtgever te verrichten diensten of te leveren producten.
