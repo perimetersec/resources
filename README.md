@@ -10,6 +10,7 @@ For more information, visit our [Portfolio](portfolio/Portfolio%20-%20Perimeter.
 - [0xScourgedev](portfolio/Portfolio%20-%200xScourgedev.md) - CEO, Lead Fuzzing Specialist
 - [Rappie](portfolio/Portfolio%20-%20Rappie.md) - CTO, Lead Fuzzing Specialist
 - [Antonio Viggiano](portfolio/Portfolio%20-%20Antonio%20Viggiano.md) - Advisor, Lead Fuzzing Specialist
+- [Josselin Feist](portfolio/Portfolio%20-%20Josselin%20Feist.md) - Lead Fuzzing Specialist
 
 ### Fuzzing Information
 - [Benefits of Fuzzing](services/Benefits%20of%20Fuzzing.md) - Outlines the advantages of fuzzing smart contracts.
@@ -20,3 +21,9 @@ For more information, visit our [Portfolio](portfolio/Portfolio%20-%20Perimeter.
 - [Origin Protocol OETHVault](reports/Origin%20Protocol%20OETHVault%20-%20Fuzzing%20Report.pdf)
 - [Immutable zkEVM Bridge](reports/Immutable%20zkEVM%20Bridge%20-%20Fuzzing%20Report.pdf)
 - [Origin Protocol WOETH](reports/Origin%20Protocol%20WOETH%20-%20Fuzzing%20Report.pdf)
+
+### Contact
+- Website: [perimetersec.io](https://www.perimetersec.io/)
+- X, formerly Twitter: [@perimeter_sec](https://x.com/perimeter_sec)
+- E-mail: [info@perimetersec.io](mailto:info@perimetersec.io)
+- Cantina Guilds: [@perimeter](https://cantina.xyz/guilds/perimeter)
