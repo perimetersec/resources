@@ -8,6 +8,10 @@ He is one of the OGs in EVM fuzzing, bringing extensive experience from working 
 Beyond his professional roles, Rappie contributes actively to the fuzzing community through initiatives like [EVM Fuzzing Resources](https://github.com/perimetersec/evm-fuzzing-resources) and the [List of Public Fuzzing Campaigns](https://github.com/perimetersec/public-fuzzing-campaigns-list), helping grow the ecosystem through open knowledge and collaboration.
 
 ## Testimonials
+
+> Berachain proof-of-liquidity is one of the biggest innovation in the L1 space. For us innovation is always coupled with ensuring the highest security. That's why we partnered with Perimeter to run one of the best in-class invariant testing campaign. Perimeter did a tremendous job in testing any possible scenario, identifying the most relevant invariants and running extremely complex simulations.
+> - Bearlusconi, [Berachain](https://www.berachain.com)
+
 > Rappie found some extremely subtle behaviors in our code that many others missed. He not only uses the cutting edge of multiple fuzzing engines, but also helps shape how these fuzzers are built. We've been delighted to use his mastery to make our contracts more secure.
 > 
 >   - [DanielVF](https://x.com/danielvf), [Origin Protocol](https://www.originprotocol.com/)

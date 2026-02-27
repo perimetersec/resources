@@ -7,6 +7,9 @@ Formerly an independent fuzzing specialist contracted to Guardian, and held the 
 
 ## Testimonials
 
+> Berachain proof-of-liquidity is one of the biggest innovation in the L1 space. For us innovation is always coupled with ensuring the highest security. That's why we partnered with Perimeter to run one of the best in-class invariant testing campaign. Perimeter did a tremendous job in testing any possible scenario, identifying the most relevant invariants and running extremely complex simulations.
+> - Bearlusconi, [Berachain](https://www.berachain.com)
+
 > I engaged 0xScourgedev for fuzz testing on behalf of Pendle, and I was impressed with his dedication and willingness to go above and beyond. He was very responsive and committed to delivering quality results, consistently addressing any queries or concerns promptly. Overall, 0xScourgedev did a great job ensuring the robustness of the contract. We look forward to working with him again in the future.
 > - [Long Vuong](https://x.com/unclegrandpa925), [Pendle](https://www.pendle.finance), [Link to testimonial](https://x.com/0xScourgedev/status/1801298332947517713)
 
