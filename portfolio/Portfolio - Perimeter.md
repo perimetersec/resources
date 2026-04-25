@@ -12,6 +12,7 @@ In order to deliver on our mission, we have developed the most advanced scaffold
 - [Rappie](Portfolio%20-%20Rappie.md) - CTO, Lead Fuzzing Specialist
 - [Antonio Viggiano](Portfolio%20-%20Antonio%20Viggiano.md) - Advisor, Lead Fuzzing Specialist
 - [Josselin Feist](portfolio/Portfolio%20-%20Josselin%20Feist.md) - Lead Fuzzing Specialist
+- [Gianluca Brigandi](portfolio/Portfolio%20-%20Gianluca%20Brigandi.md) - Tooling Specialist
 
 ## Portfolio
 
